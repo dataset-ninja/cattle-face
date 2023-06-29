@@ -1,6 +1,6 @@
 Dataset **Cattle Face** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/E/I/ZT/ab7jPoMQSTEEHKC33FVM9LGOlIdf4tyCY4yo1qjoOjFlgOpUODiUaDHto7Tmib2lJPmX7Kn3NtFDrftQ1UC8q9atnTghSuUzRmnqRwn3Ecb61yO7huCyLcNYrCK3.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/C/A/v1/WRX7RVblAbc4AxcG1ikFVJ9nrIXcck0nFiyIXUNbO2TeTVzDPPIMvIdCbrVxFLnbFUhbs8Dcuyb1fkUwmyzXcAvkREOIZshTgduWzJ0jnXvCLL09M4kWBUXdHxmx.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
